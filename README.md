@@ -1,7 +1,5 @@
 # Awesome Forest Structure [![Join the chat at https://gitter.im/awesome-forest-structure/Lobby](https://badges.gitter.im/awesome-forest-structure/Lobby.svg)](https://gitter.im/awesome-forest-structure/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# Awesome Forest Structure
-
 An awesome list of software, tools, and datasets for working with landscape and forest data in the analysis of forest structural diversity.
 
 Inspired by 2020-05-18 NSF supported [Forest Structural Diversity Workshop]().
